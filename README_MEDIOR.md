@@ -24,3 +24,6 @@
     * l'age doit être un entier positif et être compris entre 0 et 120
 - Répondre à la question : Quelle est la différence entre un service public et privé, et que pensez-vous de 
 l'exercice à ce sujet ?
+
+Un service public est accessible depuis n'importe quel controller.
+Un service prive n'est pas accessible. Il faut obligatoirement passer par un alias de celui-ci. 
