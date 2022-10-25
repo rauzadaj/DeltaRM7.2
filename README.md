@@ -12,7 +12,7 @@
 
 
 ##Livraison
-- zipper le projet et envoyer-le par email à charlotte.dumartin@deltarm.com
+- zipper le projet et envoyer-le par email 
 - donner en quelques phrases l'explication technique de votre développement ci-dessous dans le README
 
 J'ai créer un service prive et son alias afin de pouvoir utiliser ce service au niveau de mon controller UsersController.
